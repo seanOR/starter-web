@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+ 	 Sean O'Riordan 
     <name> -- <role> -- <twitter>
 
 # THANKS
